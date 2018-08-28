@@ -1,0 +1,9 @@
+dict2xml
+werkzeug
+pymongo
+xlrd
+requests
+mongoengine
+itsdangerous
+flask
+flask_restful
