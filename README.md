@@ -45,5 +45,5 @@ For server side:
 Additions:
 	Atom validation: https://validator.w3.org/feed/#validate_by_input
 	mLab database: https://mlab.com/databases/9321test 	
-	for login to mLab: username:yuyoux password:yongbao1110
+	for login to mLab: username:yuyoux password:
 	
