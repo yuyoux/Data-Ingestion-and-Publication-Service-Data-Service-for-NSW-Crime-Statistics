@@ -43,7 +43,5 @@ For server side:
 	3. the mLab database is empty now.
 
 Additions:
-	Atom validation: https://validator.w3.org/feed/#validate_by_input
-	mLab database: https://mlab.com/databases/9321test 	
-	for login to mLab: username:yuyoux password:askme
+	Atom validation: https://validator.w3.org/feed/#validate_by_input	
 	
