@@ -3,16 +3,13 @@ Designed an API interface to search for crime statistics across the NSW
 
 
 // README.txt 
-Name: Yuyou Xu
 
 Overview:
 A data service API that allows a client to read and store some publicly available crime statistics data, and publish the content in a standard Web data publication format. A pyhton script client is given as well.
 
 Dependencies
 1. Python 3.6
-2. Flask-RESTful
-3. Pycharm
-4. Please refer to requirements files to install the python libs needed
+2. Please refer to requirements files to install the python libs needed
 
 
 Installation Guide 
